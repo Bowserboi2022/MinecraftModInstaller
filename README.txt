@@ -27,6 +27,19 @@ Run-Installer.bat - instead open PowerShell in this folder and run:
 
     powershell -ExecutionPolicy Bypass -File .\Install-MinecraftMods.ps1 -MinecraftMods "C:\path\to\your\instance\mods"
 
+----------------------------------------------------------------
+HOW TO INSTALL FABRIC
+Download and install Fabric for Minecraft 26.1.2.
+Download the Fabric Installer.
+Run the installer.
+Set the Minecraft Version to 26.1.2.
+Use the latest Loader Version.
+Leave the install location as default.
+Check "Create Profile" and click Install.
+
+When you're finished, the Minecraft Launcher should have a new "Fabric 26.1.2" profile.
+This is a crucial step to running the mods.
+
 ADDING / UPDATING MODS LATER
 -----------------------------
 Just drop new/updated .jar files into the "mods" folder in here, then
