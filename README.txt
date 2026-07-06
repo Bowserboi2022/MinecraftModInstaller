@@ -11,7 +11,7 @@ WHAT THIS DOES
 
 HOW TO USE IT
 -------------
-1. Unzip this whole folder somewhere (Desktop, Downloads, wherever).
+1. Download the latest package names Unzip this whole folder somewhere (Desktop, Downloads, wherever).
 2. Double-click "Run-Installer.bat".
 3. A window will open, show progress, and pause at the end so you can
    read it. Press any key to close it when you're done.
