@@ -29,7 +29,7 @@ Run-Installer.bat - instead open PowerShell in this folder and run:
 
 ----------------------------------------------------------------
 HOW TO INSTALL FABRIC
-Download and install Fabric for Minecraft 26.1.2.
+Download and install Fabric for Minecraft 26.1.2. (the installer program is now linked in the repo)
 Download the Fabric Installer.
 Run the installer.
 Set the Minecraft Version to 26.1.2.
